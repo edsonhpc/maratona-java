@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0917728-343b-4711-a391-91c67b2d386c" name="Default Changelist" comment="" />
+    <list default="true" id="e0917728-343b-4711-a391-91c67b2d386c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Operadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RelatorioFuncionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RelatorioPendencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOnline/ImprimindoVariaveis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaOnline/ImprimindoVariaveis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ImprimindoVariaveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ImprimindoVariaveis.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +22,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YetWBagwx63QUTwyJQ7KLbp8Mt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RunDashboard">
@@ -34,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ImprimindoVariaveis">
+  <component name="RunManager" selected="Application.Operadores">
     <configuration name="ImprimindoVariaveis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ImprimindoVariaveis" />
       <module name="JavaOnline" />
@@ -42,8 +56,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OlaMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OlaMundo" />
+    <configuration name="Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operadores" />
+      <module name="JavaOnline" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RelatorioDePendencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RelatorioDePendencia" />
+      <module name="JavaOnline" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RelatorioFuncionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RelatorioFuncionario" />
+      <module name="JavaOnline" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RelatorioPendencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RelatorioPendencia" />
       <module name="JavaOnline" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -51,8 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Operadores" />
         <item itemvalue="Application.ImprimindoVariaveis" />
-        <item itemvalue="Application.OlaMundo" />
+        <item itemvalue="Application.RelatorioFuncionario" />
+        <item itemvalue="Application.RelatorioPendencia" />
+        <item itemvalue="Application.RelatorioDePendencia" />
       </list>
     </recent_temporary>
   </component>
@@ -68,10 +106,25 @@
       <updated>1583314918354</updated>
       <workItem from="1583314926326" duration="117000" />
       <workItem from="1583315402579" duration="994000" />
+      <workItem from="1583316566721" duration="776000" />
+      <workItem from="1583396766307" duration="4141000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
